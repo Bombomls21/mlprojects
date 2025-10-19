@@ -1,11 +1,11 @@
-# mlprojects
+# MLprojects
+This is my elegant collection of Machine Learning and Deep Learning Jupyter notebooks.
 
 <!-- Header image -->
 <p align="center">
-  <img src="./assets/ml.svg" alt="mlprojects" width="600" />
+  <img src="./assets/machine_learning.png" alt="mlprojects" width="600" />
 </p>
 
-This is my elegant collection of Machine Learning and Deep Learning Jupyter notebooks.
 
 ---
 
